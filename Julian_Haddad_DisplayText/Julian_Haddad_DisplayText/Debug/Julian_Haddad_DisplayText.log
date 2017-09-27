@@ -1,0 +1,3 @@
+﻿  DisplayText.cpp
+c:\users\234025\desktop\computer science\julian_haddad_displaytext\julian_haddad_displaytext\displaytext.cpp(34): error C2143: syntax error: missing ';' before 'if'
+c:\users\234025\desktop\computer science\julian_haddad_displaytext\julian_haddad_displaytext\displaytext.cpp(34): error C2059: syntax error: '<<'
